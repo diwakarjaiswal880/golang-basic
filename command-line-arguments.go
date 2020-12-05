@@ -22,3 +22,6 @@ func main() {
 //$ go build command-line-arguments.go
 // Then run with command line arguments
 //$ ./command-line-arguments a b c d
+// or run with this 
+//$ go run command-line-arguments.go a b c d e
+
